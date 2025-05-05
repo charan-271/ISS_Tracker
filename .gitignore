@@ -3,3 +3,5 @@
 .vscode/c_cpp_properties.json
 .vscode/launch.json
 .vscode/ipch
+# Ignore credentials file to prevent sensitive information from being committed
+include/credentials.h
